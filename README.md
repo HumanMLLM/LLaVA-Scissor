@@ -92,7 +92,7 @@ from decord import VideoReader, cpu
 
 warnings.filterwarnings("ignore")
 # Load model
-pretrained = "model_zoo/lmms-lab/llava-onevision-qwen2-7b-ov"
+pretrained = "model_zoo/BBBBCHAN/LLaVA-Scissor-baseline-7B/"
 model_name = "llava_qwen_zip"
 device = "cuda"
 device_map = "auto"
