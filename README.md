@@ -7,17 +7,17 @@
 
 &dagger;Equal contribution &emsp;*Corresponding author
 
-<a href="https://arxiv.org/abs/2306.04300"><img src='https://img.shields.io/badge/arXiv-LLaVA_Scissor-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/xx"><img src='https://img.shields.io/badge/arXiv-LLaVA_Scissor-red' alt='Paper PDF'></a>
 <a href='https://huggingface.co/BBBBCHAN/LLaVA-Scissor-baseline-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model_7B-blue'></a>
 <a href='https://huggingface.co/BBBBCHAN/LLaVA-Scissor-baseline-0.5B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model_0.5B-blue'></a>
-<a href='https://huggingface.co/papers/2306.04300'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-yellow'></a>
+<a href='https://huggingface.co/papers/xx'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-yellow'></a>
 </div>
 
 
 
 # News
 * **2025-06-28:** 🔥  The code of [LLaVA Scissor](https://github.com/HumanMLLM/LLaVA-Scissor) is released.
-* **2025-06-27:** 🔥  The paper of [LLaVA Scissor](https://arxiv.org/abs/2306.04300) is released. 
+* **2025-06-27:** 🔥  The paper of [LLaVA Scissor](https://arxiv.org/abs/xx) is released. 
 
 
 ## Overview
