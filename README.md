@@ -68,7 +68,7 @@ huggingface-cli download --resume-download LLaVA-Scissor-baseline-7B --local-dir
 huggingface-cli download --resume-download LLaVA-Scissor-baseline-0.5B --local-dir LLaVA-Scissor-baseline-0.5B
 ```
 ### Setting hyperparameters
-We provide use similarity threshold $\tau $ and error tolerance $\epsilon$  to control the compression process. You may find and modify `mm_zip_tau` and `mm_zip_epsilon` in `config.json` of the model directory (`model_zoo/BBBBCHAN/LLaVA-Scissor-baseline-7B` for instance). 
+We provide use similarity threshold $\tau$ and error tolerance $\epsilon$  to control the compression process. You may find and modify `mm_zip_tau` and `mm_zip_epsilon` in `config.json` of the model directory (`model_zoo/BBBBCHAN/LLaVA-Scissor-baseline-7B` for instance). 
 
 The default setting uses `mm_zip_tau = 0.9 `and `mm_zip_epsilon = 0.05`. The similarity threshold `mm_zip_tau` controls the semantic similarity required to group tokens into the same connected component, while the error tolerance `mm_zip_epsilon` determines the approximation accuracy when computing these components.
 
