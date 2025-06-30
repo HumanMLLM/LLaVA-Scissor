@@ -5,7 +5,7 @@
 
 <sup>1</sup>VCIP, Nankai University&emsp;&emsp;&emsp;&emsp;<sup>2</sup>Tongyi Lab, Alibaba Group&emsp;&emsp;&emsp;&emsp;
 
-&dagger;Equal contribution &emsp;*Corresponding author
+*Equal contribution &emsp;&dagger;Corresponding author
 
 <a href="https://arxiv.org/abs/2506.21862"><img src='https://img.shields.io/badge/arXiv-LLaVA_Scissor-red' alt='Paper PDF'></a>
 <a href='https://huggingface.co/BBBBCHAN/LLaVA-Scissor-baseline-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model_7B-blue'></a>
