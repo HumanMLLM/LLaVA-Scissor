@@ -7,17 +7,17 @@
 
 &dagger;Equal contribution &emsp;*Corresponding author
 
-<a href="https://arxiv.org/abs/xx"><img src='https://img.shields.io/badge/arXiv-LLaVA_Scissor-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2506.21862"><img src='https://img.shields.io/badge/arXiv-LLaVA_Scissor-red' alt='Paper PDF'></a>
 <a href='https://huggingface.co/BBBBCHAN/LLaVA-Scissor-baseline-7B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model_7B-blue'></a>
 <a href='https://huggingface.co/BBBBCHAN/LLaVA-Scissor-baseline-0.5B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model_0.5B-blue'></a>
-<a href='https://huggingface.co/papers/xx'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-yellow'></a>
+<a href='https://huggingface.co/papers/2506.21862'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-yellow'></a>
 </div>
 
 
 
 # News
-* **2025-06-28:** 🔥  The code of [LLaVA Scissor](https://github.com/HumanMLLM/LLaVA-Scissor) is released.
-* **2025-06-27:** 🔥  The paper of [LLaVA Scissor](https://arxiv.org/abs/xx) is released. 
+* **2025-06-30:** 🔥  The code of [LLaVA Scissor](https://github.com/HumanMLLM/LLaVA-Scissor) is released.
+* **2025-06-30:** 🔥  The paper of [LLaVA Scissor](https://arxiv.org/abs/2506.21862) is released. 
 
 
 ## Overview
@@ -29,7 +29,7 @@ Previous methods mostly attempt to compress tokens based on attention scores, bu
 
 Building upon SCC, we propose LLaVA-Scissor, a two-step spatio-temporal token compression strategy. Specifically, we first extract spatially distinct semantic regions within each frame, and then perform temporal compression by identifying and merging redundant semantics across frames. The final token set consists of compact yet diverse tokens that jointly represent the entire video content without semantic duplication.
 
-For technical details, please refer to our full paper on [arXiv](https://arxiv.org/abs/xx).
+For technical details, please refer to our full paper on [arXiv](https://arxiv.org/abs/2506.21862).
 ## Getting Started
 
 ### Installation
@@ -177,6 +177,7 @@ If you find our repo useful for your research, please consider citing our paper:
 @article{sun2025llava,
   title={LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs},
   author={Sun, Boyuan and Zhao, Jiaxing and Wei, Xihan and Hou, Qibin},
+  journal={arXiv preprint arXiv:2506.21862},
   year={2025}
 }
 ```
@@ -189,7 +190,7 @@ Please note that any commercial use of this code requires formal permission prio
 
 For technical questions, please contact `sbysbysby123[AT]gmail.com`.
 
-For commercial licensing, please contact `andrewhoux@gmail.com`.
+For commercial licensing, please contact `andrewhoux[AT]gmail.com`.
 
 ## Acknowledgement
 
