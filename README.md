@@ -16,6 +16,7 @@
 
 
 # News
+* **2025-07-01:** 🚀 LLaVA-Scissor was ranked **#2 Paper of the Day** on [HuggingFace Daily Papers](https://huggingface.co/papers/date/2025-06-30).
 * **2025-06-30:** 🔥  The code of [LLaVA Scissor](https://github.com/HumanMLLM/LLaVA-Scissor) is released.
 * **2025-06-30:** 🔥  The paper of [LLaVA Scissor](https://arxiv.org/abs/2506.21862) is released. 
 
@@ -191,6 +192,9 @@ Please note that any commercial use of this code requires formal permission prio
 For technical questions, please contact `sbysbysby123[AT]gmail.com`.
 
 For commercial licensing, please contact `andrewhoux[AT]gmail.com`.
+
+## Join us
+If you are looking for jobs/internships in Tongyi Lab, Alibaba Group, please contact xihan.wxh@alibaba-inc.com (WeChat: weixihan1).
 
 ## Acknowledgement
 
